@@ -1,0 +1,23 @@
+{
+  "name": "mongo-heroku-21.8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParanAndro/Mongo-Heroku-21.8.git"
+  },
+  "author": "Radek I",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ParanAndro/Mongo-Heroku-21.8/issues"
+  },
+  "homepage": "https://github.com/ParanAndro/Mongo-Heroku-21.8#readme",
+  "dependencies": {
+    "mongoose": "^5.0.16"
+  }
+}
